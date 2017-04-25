@@ -1,10 +1,9 @@
-### This simulation toolkit is a Copyright (c) 2012-2017 of Toyota InfoTechnology Center, U.S.A. Inc.
+#### This simulation toolkit is a Copyright (c) 2012-2017 of Toyota InfoTechnology Center, U.S.A. Inc.
 
-These files are distributed under the following license, which is often called
-the "BSD License."
+#### These files are distributed under the following license, which is often called the "BSD License."
 
-### Redistribution and use in source and binary forms, with or without 
-### modification, are permitted provided that the following conditions are met:
+#### Redistribution and use in source and binary forms, with or without 
+#### modification, are permitted provided that the following conditions are met:
 
 ```
 Redistributions of source code must retain the above copyright notice, 
