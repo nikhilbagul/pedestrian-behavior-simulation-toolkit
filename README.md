@@ -54,8 +54,7 @@ Note : Since, Playmaker and Simple Waypoint System are external third party lice
   
     ![image](https://cloud.githubusercontent.com/assets/23564961/25509629/3f78f98e-2b6f-11e7-85d2-1f55c0c48c56.png)
     
-   - Next you can add the references for Ped prefabs and a prebuilt Path made of 2 waypoints from the _Prefabs folder.
-   
+   - Next you can add the references for Ped prefabs and a prebuilt Path made of 2 waypoints.   
    
     ![image](https://cloud.githubusercontent.com/assets/23564961/25509669/890ea242-2b6f-11e7-91f6-662cc260b4d7.png)
     
