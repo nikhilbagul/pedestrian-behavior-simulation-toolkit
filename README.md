@@ -38,6 +38,13 @@ Note : Since, Playmaker and Simple Waypoint System are external third party lice
 3. Pool of sample input position data set for generating waypoint based paths for Pedestrain. All the Ped behavior models and waypoint      paths are modeled based on verified surveys by US road journals and TransSafety.
 
 4. Following are the steps to integrate Playmaker and SWS with the current implementation of the project:
-  - Get Playmaker from Unity Asset store
-  - After installing Playmaker please import and install Simple Waypoint System. SWS integration with Playmaker forms the core of the       Ped Behavior models.
+  - Get Playmaker from Unity Asset 
+  
+  
+  
+  
+    ![image](https://cloud.githubusercontent.com/assets/23564961/25509092/4bb3403c-2b6b-11e7-996f-b8307ac51726.png)
+    
+    
+  - After installing Playmaker please import and install Simple Waypoint System(SWS). SWS integration with Playmaker forms the core of       the Ped Behavior models.
   - Once, Playmaker and SWS are setup we can reference the Ped Behavior templates into the Ped_FSMTemplate Pool in the Path Generator       script attached to the SceneManager gameObject.
