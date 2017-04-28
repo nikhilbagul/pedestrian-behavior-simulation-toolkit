@@ -56,9 +56,11 @@ Note : Since, Playmaker and Simple Waypoint System are external third party lice
     
    - Next you can add the references for Ped prefabs and a prebuilt Path made of 2 waypoints from the _Prefabs folder.
    
+   
     ![image](https://cloud.githubusercontent.com/assets/23564961/25509669/890ea242-2b6f-11e7-91f6-662cc260b4d7.png)
     
-    -The combination of Ped behavior models and type of path can be selected from the PathTextFile boolean list and Ped FSM_template          Pool boolean list from the Path Generator script
+    
+    - The combination of Ped behavior models and type of path can be selected from the PathTextFile boolean list and Ped FSM_template         Pool boolean list from the Path Generator script
     
     
     
