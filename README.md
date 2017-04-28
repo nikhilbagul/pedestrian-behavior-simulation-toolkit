@@ -45,5 +45,7 @@ Note : Since, Playmaker and Simple Waypoint System are external third party lice
     
   - After installing Playmaker please import and install Simple Waypoint System(SWS). SWS integration with Playmaker forms the core of       the Ped Behavior models.
   
-    
+    ![image](https://cloud.githubusercontent.com/assets/23564961/25509399/8d98729a-2b6d-11e7-82c7-b0896cb806b1.png)
+    ![image](https://cloud.githubusercontent.com/assets/23564961/25509417/be689e54-2b6d-11e7-94d4-dd3d07f9f7d2.png)
+            
   - Once, Playmaker and SWS are setup we can reference the Ped Behavior templates into the Ped_FSMTemplate Pool in the Path Generator       script attached to the SceneManager gameObject.
