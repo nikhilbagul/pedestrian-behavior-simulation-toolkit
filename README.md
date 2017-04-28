@@ -50,8 +50,15 @@ Note : Since, Playmaker and Simple Waypoint System are external third party lice
             
   - Once, Playmaker and SWS are setup we can reference the Ped Behavior templates into the Ped_FSMTemplate Pool in the Path Generator       script attached to the SceneManager gameObject.
   
+  - You can add references for the premade Ped behavior models/FSMs into the Path Generator script on the SceneManager gameObject.
+  
     ![image](https://cloud.githubusercontent.com/assets/23564961/25509629/3f78f98e-2b6f-11e7-85d2-1f55c0c48c56.png)
+    
+   - Next you can add the references for Ped prefabs and a prebuilt Path made of 2 waypoints from the _Prefabs folder.
+   
     ![image](https://cloud.githubusercontent.com/assets/23564961/25509669/890ea242-2b6f-11e7-91f6-662cc260b4d7.png)
+    
+    -The combination of Ped behavior models and type of path can be selected from the PathTextFile boolean list and Ped FSM_template          Pool boolean list from the Path Generator script
     
     
     
